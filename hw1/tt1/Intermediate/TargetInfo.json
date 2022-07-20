@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "tt1",
+			"Path": "F:\\tx\\TX_game_engine\\hw1\\tt1\\Source\\tt1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "tt1Editor",
+			"Path": "F:\\tx\\TX_game_engine\\hw1\\tt1\\Source\\tt1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

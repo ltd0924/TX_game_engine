@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-tt1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\tx\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\tx\TX_game_engine\hw1\tt1\Intermediate\Build\Win64\UE4Editor\Development\tt1\tt1.cpp.obj"
+"F:\tx\TX_game_engine\hw1\tt1\Intermediate\Build\Win64\UE4Editor\Development\tt1\tt1Character.cpp.obj"
+"F:\tx\TX_game_engine\hw1\tt1\Intermediate\Build\Win64\UE4Editor\Development\tt1\tt1GameMode.cpp.obj"
+"F:\tx\TX_game_engine\hw1\tt1\Intermediate\Build\Win64\UE4Editor\Development\tt1\tt1.init.gen.cpp.obj"
+"F:\tx\TX_game_engine\hw1\tt1\Intermediate\Build\Win64\UE4Editor\Development\tt1\tt1Character.gen.cpp.obj"
+"F:\tx\TX_game_engine\hw1\tt1\Intermediate\Build\Win64\UE4Editor\Development\tt1\tt1GameMode.gen.cpp.obj"
+"F:\tx\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\tx\TX_game_engine\hw1\tt1\Intermediate\Build\Win64\UE4Editor\Development\tt1\UE4Editor-tt1.lib"

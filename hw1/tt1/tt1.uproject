@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{509CA425-4FE0-7078-6D52-ACBACAF27D6F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "tt1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
